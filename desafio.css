@@ -19,7 +19,7 @@ ul, ol {
     src: url(Designer.otf);
 }
 body{
-    background-color:#272CFA;
+    background-color:#046ec5;
 }
 
 
@@ -132,7 +132,7 @@ body{
 
 
 .imagens {
-    padding: 0px 70px;
+    padding: 0 50px;
     background-color: #4A80FA;
 
 
@@ -140,7 +140,7 @@ body{
 
 .video{
     text-align: center;
-    background-color: #000851;
+    background-color: #091581;
     padding: 20px 20px 20px 20px ;
     border-radius: 0px 0px 5px 5px;
 }
